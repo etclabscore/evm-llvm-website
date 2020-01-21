@@ -1,7 +1,7 @@
 {
-  "name": "demo",
+  "name": "@etclabscore/evm-llvm-website",
   "private": true,
-  "description": "A pristine starting point for typescript, gatsby, and material-ui",
+  "description": " The EVM-LLVM project is bringing LLVM infrastructure to the EthereumStack.",
   "version": "0.0.0-development",
   "dependencies": {
     "@etclabscore/gatsby-theme-pristine": "^1.1.1",
@@ -66,9 +66,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/etclabscore/pristine-typescript-gatsby-react-material-ui"
+    "url": "https://github.com/etclabscore/evm-llvm-website"
   },
   "bugs": {
-    "url": "https://github.com/etclabscore/pristine-typescript-gatsby-react-material-ui/issues"
+    "url": "https://github.com/etclabscore/evm-llvm-website/issues"
   }
 }

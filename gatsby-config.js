@@ -1,7 +1,7 @@
 const emoji = require("remark-emoji");
 
 module.exports = {
-  pathPrefix: "/pristine-demo",
+  pathPrefix: "/evm-llvm-website",
   siteMetadata: {
     title: `EVM-LLVM`,
     description: ``,
@@ -78,8 +78,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `pristine-site`,
-        short_name: `pristine-site`,
+        name: `evm-llvm-website`,
+        short_name: `evm-llvm-website`,
         start_url: `/`,
         background_color: `transparent`,
         theme_color: `transparent`,
