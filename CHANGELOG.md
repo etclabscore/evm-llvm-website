@@ -1,3 +1,16 @@
+# 1.0.0 (2020-01-21)
+
+
+### Bug Fixes
+
+* bumped gatsby theme package ([33824c5](https://github.com/etclabscore/evm-llvm-website/commit/33824c5dd8d864d8b0380b15d0a4889b717a63ba))
+* fixedup config urls ([031c56c](https://github.com/etclabscore/evm-llvm-website/commit/031c56c694ee68d32165c99b8d7acb92d4be9e09))
+
+
+### Features
+
+* initial commit ([010a3fa](https://github.com/etclabscore/evm-llvm-website/commit/010a3faf78719d9aba98769cc9f65d278698f65f))
+
 ## [1.1.3](https://github.com/etclabscore/pristine-typescript-gatsby-react-material-ui/compare/1.1.2...1.1.3) (2020-01-20)
 
 
