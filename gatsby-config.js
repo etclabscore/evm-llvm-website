@@ -5,7 +5,7 @@ module.exports = {
   siteMetadata: {
     title: `EVM-LLVM`,
     description: ``,
-    logoUrl: `https://user-images.githubusercontent.com/10556209/72843303-db7a3380-3c5f-11ea-9053-ea4eb8e17f23.png`,
+    logoUrl: `https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F1.bp.blogspot.com%2F_kmT84BrhS7w%2FS-KxE45xv5I%2FAAAAAAAAAUA%2FI2NGTjg2v4w%2Fs1600%2FCute%2BDragon.png&f=1&nofb=1`,
     author: ``,
     menuLinks: [
       {
