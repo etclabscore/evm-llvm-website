@@ -9,7 +9,7 @@ const MyApp: React.FC = () => {
   return (
     <>
       <Grid container alignContent="center" alignItems="center" justify="center" direction="column">
-        {/* <img className="logo" alt="logo" src={"https://user-images.githubusercontent.com/450283/63640209-85cb3c00-c66b-11e9-9610-0c339ae66ac7.png"} style={{ paddingTop: "10%" }} /> */}
+        <img className="logo" alt="logo" src={"https://i.imgur.com/lMa1bmH.png"} style={{ paddingTop: "10%" }} />
         <Typography variant="h1">EVM-LLVM</Typography>
         <Typography gutterBottom style={{ paddingTop: "100px", paddingBottom: "20px" }} variant="inherit">
         The EVM-LLVM project is bringing LLVM infrastructure to the EthereumStack.
