@@ -11,7 +11,7 @@ The `function dispatcher` function (usually called `main` function in some conte
 2. extract the call arguments, and push them on to stack.
 3. call the function address specified in the jump table.
 
-```
+```bob-svg
  Start of address
 +---------------->  +-------------------------+
                     | Function dispatcher     |

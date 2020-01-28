@@ -51,7 +51,7 @@ module.exports = {
       },
       {
         name: 'Running integrated tests in EVM evniorment',
-        link: `/run-integrate-tests-in-evm-env`
+        link: `/run-integrated-tests-in-evm-env`
       },
       {
         name: 'Stack & Memory management',
