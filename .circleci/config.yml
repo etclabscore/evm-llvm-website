@@ -45,10 +45,10 @@ jobs:
       - image: circleci/node:12.14.1
     steps:
       - checkout
-      - restore_cache: *restore-deps-cache
+      # - restore_cache: *restore-deps-cache
       - run: npm install
       - run: npm run build
-      - save_cache: *save-deps-cache
+      # - save_cache: *save-deps-cache
 
   release:
     <<: *defaults
