@@ -32,12 +32,12 @@ jobs:
       - image: circleci/node:12.14.1
     steps:
       - checkout
-      - restore_cache: *restore-deps-cache
+      # - restore_cache: *restore-deps-cache
       - run: npm install
       - run: npm install codecov
       - run: npm test
       - run: ./node_modules/.bin/codecov
-      - save_cache: *save-deps-cache
+      # - save_cache: *save-deps-cache
 
   build:
     <<: *defaults
