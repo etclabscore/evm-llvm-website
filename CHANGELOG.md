@@ -1,3 +1,20 @@
+## [1.0.1](https://github.com/etclabscore/evm-llvm-website/compare/1.0.0...1.0.1) (2020-01-28)
+
+
+### Bug Fixes
+
+* finish him ([4e1390c](https://github.com/etclabscore/evm-llvm-website/commit/4e1390c175a70fdadec55052c59c0b3f41c72436))
+* fixup homepage styling and templated content ([efb1fcd](https://github.com/etclabscore/evm-llvm-website/commit/efb1fcd29a96cf812ebc785dbb844b20bcc5c89e))
+* removed svg bob ([44dd40d](https://github.com/etclabscore/evm-llvm-website/commit/44dd40d75bbcc38d6c2e44eef6f4e6d6e7ed8465))
+* update circlci yaml ([d1be267](https://github.com/etclabscore/evm-llvm-website/commit/d1be26739f1474aecd327055da354ca8976e1d93))
+* update circleci ([d222a77](https://github.com/etclabscore/evm-llvm-website/commit/d222a776806ec18d1a73b1b43817e099b55ffbba))
+* update yaml ([26bea9e](https://github.com/etclabscore/evm-llvm-website/commit/26bea9e945e0a5b5d47546ec10186bfefb1cc7ef))
+* updated circleci config ([678e8f3](https://github.com/etclabscore/evm-llvm-website/commit/678e8f3de3874f59eca72eb18b39351d701ed91c))
+* updated circleci yaml ([4339614](https://github.com/etclabscore/evm-llvm-website/commit/4339614dcf19168251295e56b8530cc168bb3de8))
+* updated node v in circle ci congif ([d2c5637](https://github.com/etclabscore/evm-llvm-website/commit/d2c563769daff8c90c0b7e2e45d3c917243b7831))
+* updated node version in circle ci config ([a35a0f6](https://github.com/etclabscore/evm-llvm-website/commit/a35a0f65d857a22444cf4f03a2b07eec2de4de1c))
+* updated yaml ([5052180](https://github.com/etclabscore/evm-llvm-website/commit/5052180c165da2544527ef3167c4a89cbdebb0e1))
+
 # 1.0.0 (2020-01-21)
 
 
