@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/etclabscore/evm-llvm-website/compare/1.0.1...1.0.2) (2020-01-28)
+
+
+### Bug Fixes
+
+* update logo ([0f80c0d](https://github.com/etclabscore/evm-llvm-website/commit/0f80c0dfbd11f8b693813ad1468fdf62bbeaaeaa))
+
 ## [1.0.1](https://github.com/etclabscore/evm-llvm-website/compare/1.0.0...1.0.1) (2020-01-28)
 
 
