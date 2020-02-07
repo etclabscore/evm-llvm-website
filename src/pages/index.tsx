@@ -1,8 +1,9 @@
 import React from "react";
-import { Grid, Typography, Box } from "@material-ui/core";
+import { Grid, Typography, Box, Button } from "@material-ui/core";
 import { Link as GatsbyLink } from "gatsby";
 import Link from "@material-ui/core/Link";
 import { grey } from "@material-ui/core/colors";
+import NewReleasesIcon from '@material-ui/icons/NewReleases';
 
 const MyApp: React.FC = () => {
 
@@ -14,6 +15,9 @@ const MyApp: React.FC = () => {
         <Typography gutterBottom style={{ paddingTop: "100px", paddingBottom: "20px" }} variant="inherit">
         The EVM-LLVM project is bringing LLVM infrastructure to the EthereumStack.
         </Typography>
+        <Typography variant="inherit" color="secondary"><NewReleasesIcon color="secondary" /> EVM-LLVM Alpha release is now available!</Typography>
+        <br />
+        <Button variant="contained" color="primary" href="https://github.com/etclabscore/evm_llvm/releases/tag/v0.5_alpha"> Alpha Release</Button>
         <br />
         <br />
         <br />
